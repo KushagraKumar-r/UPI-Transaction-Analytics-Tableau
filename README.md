@@ -36,7 +36,7 @@ An interactive Tableau dashboard designed to analyze UPI transaction patterns an
 
 ## 📷 Dashboard Preview
 
-![UPI Transaction Analytics Dashboard](Dashboard.png)
+UPI_Dashboard.png
 
 ## 💡 Key Skills Demonstrated
 
