@@ -1,4 +1,3 @@
-# UPI-Transaction-Analytics-Tableau
 # UPI Transaction Analytics Dashboard | Tableau
 
 ## 📊 Project Overview
